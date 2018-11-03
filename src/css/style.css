@@ -29,3 +29,20 @@ footer {
 section {
     flex: 1;
 }
+
+section img {
+    width: 60%;
+}
+
+section ul {
+    width: 100%;
+    height: auto;
+}
+
+section ul li {
+    width: 100%;
+    line-height: 40px;
+    padding-left: 15px;
+    box-sizing: border-box;
+    border-bottom: solid 1px #ccc;
+}
